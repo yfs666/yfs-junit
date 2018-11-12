@@ -1,4 +1,4 @@
-package com.yfs.junut.unit2;
+package com.yfs.junit.unit2;
 
 import junit.framework.TestCase;
 
