@@ -9,6 +9,7 @@ public class Largest{
 
     /**
      * @param list 参数数组
+     * @return 最大值
      * @描述 取list的最大值
      * @author Yangfengshuai
      * @date 2018-11-12
